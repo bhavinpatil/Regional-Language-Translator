@@ -1,0 +1,2 @@
+# Regional Language Translator
+ Welcome to the Multilingual Regional Translation repository! This project focuses on leveraging cutting-edge methodologies in Natural Language Processing (NLP) and Neural Machine Translation (NMT) to enable accurate and efficient translation between diverse regional languages. By combining the power of NLP techniques, state-of-the-art models from the Transformers library, and contributions from ai4bharat, this repository aims to bridge language barriers and enhance communication across various languages.
